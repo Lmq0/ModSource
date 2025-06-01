@@ -32,14 +32,12 @@ When Providence reach part2,she will summon a fire rain.After that,the picture o
 During this part,she have more actions.
 ![image](firerain.jpg)
 First,the holy spear plus.Providence will produce some holyflames when flying.these holyflames will produce some some flames to chase players.
-![image](flameball2.jpg)
+![image](spear2.jpg)
 Next,the sun flame.the fireball will be more thick and the only way to escape them is to flying in the petal-shape gap.
-![image](fireball2.jpg)
 The holy laser is the similar with the second state of Providence too.
-![image](laser2.jpg)
 After produce the sun flamee,Procidence will disappear and show up in the place you have been in 3 seconds ago,and leave a small sun in the place in which she disappears.The sun will produce small fires to hit players.
-![image](showup.jpg)
+![image](flamesun.jpg)
 The flame cristal is also similar to the origin.
-![image](cristal.jpg)
+![image](firecristal.jpg)
 Last,the laser.Providence will produce many lasers in several seconds.Before the lasers come,there will exist lines to help you avoid hit.
 ![image](laser3.jpg)
